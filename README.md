@@ -1,6 +1,9 @@
-# calculadora
+# calculadora-imc
 
 A new Flutter project.
+
+![calculadora](https://user-images.githubusercontent.com/54786785/75636409-3f97fc00-5bfd-11ea-9459-52d9112a422a.jpeg)
+
 
 ## Getting Started
 
